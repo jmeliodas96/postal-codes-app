@@ -1,29 +1,13 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Ejercicio de React
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Objetivo ###
 
-### How do I get set up? ###
+* Crear una aplicacion que permita al usuario digitar codigos postales y obtener la informacion de departamento, municipio y vecindario.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### Descripción ###
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Usando esta página como source esta [página](https://en.wikipedia.org/wiki/Postal_codes_in_Nicaragua), cree una aplicación que permita al usuario digitar el codigo postal en un campo de texto y que se autocomplete con el primer match. Al momento de elegir el codigo postal mostrar la informacion de departamento, municipio y vecindad en otro componente.
+Si el usuario digita un codigo postal inexistente que muestre un mensaje informando al usuario de esto.
